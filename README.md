@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suhas-Kalagotla
 - 👀 I’m interested in programming, software development
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python based on machine learning 
+- 💞️ I’m looking to collaborate on projects based on machine learning 
 - 📫 How to reach me suhaskalagotla5@gmail.com
 
 <!---

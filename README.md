@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suhas-Kalagotla currently studying 2nd year in ACE Engineering college 
+- 👋 Hi, I’m @Suhas-Kalagotla currently studying 3rd year in ACE Engineering college 
 - 👀 I’m interested in programming, software development
 - 🌱 I’m currently Learning Data Structures and Algorithms in java 
 - 💞️ I’m looking to collaborate on projects based on MERN stack 
